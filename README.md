@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buddhi Gayashan Jayawickrama</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">🚀 A Full-Stack Developer & Creative Technologist from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=buddhigayashan&label=Profile%20views&color=0e75b6&style=flat" alt="buddhigayashan" />
@@ -7,14 +7,13 @@
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-- 🔭 I’m currently working on **personal projects** to sharpen my frontend and full-stack development skills  
-- 🌱 I’m currently learning **Java**, React Native & Backend Development  
-- 💡 Passionate about building engaging UIs, interactive apps, and solving real-world problems with code  
-- 🧠 Focused on clean code, responsive design, and high-performance interfaces  
-- 👨‍💻 Always learning and experimenting with new tech stacks  
-- 🤝 Open to freelance, internships, and collaborative opportunities  
+- 🧑‍💻 A passionate developer crafting elegant UIs & scalable full-stack apps  
+- 🔭 Currently working on my **personal portfolio** and creative platforms  
+- 🌱 Exploring **Java**, React Native & backend ecosystems  
+- 📱 Focused on performance, responsiveness & user-first experiences  
+- 🤝 Open for internships, freelance, and collaborative tech projects  
 
 ---
 
@@ -80,12 +79,19 @@
 
 ---
 
-### 🗂️ GitHub Projects Showcase
+### 📈 Activity Graph
 
 <p align="center">
-  🔧 Check out my best projects on my [GitHub Repositories](https://github.com/buddhigayashan?tab=repositories)  
-  ⚡ E-Commerce UI | 🎨 Creative Portfolio | 📊 Task Manager | 🧠 Learning Projects  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddhigayashan&theme=react-dark&bg_color=1A1B27&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="activity graph"/>
 </p>
+
+---
+
+### 🗂️ Project Highlights
+
+> 🛍️ E-Commerce Platform – Modern UI with filtering and secure payments  
+> 📊 Task Manager – Real-time collaboration & productivity features  
+> 🎨 Creative Portfolio Hub – Interactive galleries for designers and artists  
 
 ---
 
@@ -93,14 +99,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=buddhigayashan&theme=dracula&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
