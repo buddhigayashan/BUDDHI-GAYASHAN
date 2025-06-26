@@ -87,13 +87,7 @@
 
 ---
 
-### 🗂️ Project Highlights
-
-> 🛍️ E-Commerce Platform – Modern UI with filtering and secure payments  
-> 📊 Task Manager – Real-time collaboration & productivity features  
-> 🎨 Creative Portfolio Hub – Interactive galleries for designers and artists  
-
----
+ 
 
 ### ✍️ Quote of the Day
 
